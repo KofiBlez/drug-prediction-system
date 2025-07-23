@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Local environment variables
+.env
+*.env
+
+# Model files (joblib, pickle)
+*.pkl
+*.joblib
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Reports
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Git filter repo temp
+.git-filter-repo/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Python build files
+build/
+dist/
+*.egg-info/
